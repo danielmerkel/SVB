@@ -9,7 +9,7 @@ var useFixedUpdate : boolean = true;
 
 // For the next variables, @System.NonSerialized tells Unity to not serialize the variable or show it in the inspector view.
 // Very handy for organization!
-
+//teste Yuri
 // The current global direction we want the character to move in.
 @System.NonSerialized
 var inputMoveDirection : Vector3 = Vector3.zero;
